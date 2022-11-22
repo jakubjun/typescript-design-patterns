@@ -1,3 +1,5 @@
+// https://youtu.be/v9ejT8FO-7I
+
 interface IDuckBehavior {
   quack: () => any
 }
